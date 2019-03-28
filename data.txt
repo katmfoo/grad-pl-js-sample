@@ -1,0 +1,10 @@
+John Smith|john.smith@gmail.com|123 Main Street, Anytown, NJ, 03030|8564332312
+Ali Houshmand|houshmand@rowan.edu|201 Mullica Hill Road, Glassboro, NJ, 08028|8562564000
+John Kuger|cougar@cats.org|1181 Nixon Drive, Moorestown, NJ, 08057|9012342421
+Ashley Carberry|c_ash@bravotechnologies.net|lkajsdflkafd|(856) 232-9029
+_Andile Mason|andil_mason@gmail.com|1000 Colonial Farm Rd, McLean, VA, 22101|7034820623
+Edward Richtofen|thedoctor@cod.com|51 Remote Valley Rd, Lincoln County, NV, 323123|1153232232
+Sonya Blade|sonya_blade_rocks@mk.net|323 Harrier Lane, Victorsville, CA, 22121|4332321234
+Mario Mario|mushr**ms@mushroomkingdom.com|121 Big Shroom Drive, Sandyville, 33, 32312|3333333333
+Benjamin Franklin|rollinginthebenjamins@hundred.$$$|317 Chestnut St, Philadelphia, PA, 19106|1001001000
+Sean Callihan|seancal313@yahoo.com|100 North Drive, Sandwhich, MA, 19222|323122122#
